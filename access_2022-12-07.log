@@ -1,0 +1,73 @@
+Time 36 , Param:  ,/login, Client 10.1.16.205, [07/dezembro/2022 14:56:08.324], PostmanRuntime/7.29.2, "POST /login " 200 
+Time 0 , Param:  ,/produto, Client 10.1.16.205, [07/dezembro/2022 14:56:11.054], PostmanRuntime/7.29.2, "GET /produto " 200 
+Time 0 , Param:  ,/produto, Client 10.1.16.205, [07/dezembro/2022 14:56:11.921], PostmanRuntime/7.29.2, "GET /produto " 200 
+Time 0 , Param:  ,/produto, Client 10.1.16.205, [07/dezembro/2022 14:56:12.464], PostmanRuntime/7.29.2, "GET /produto " 200 
+Time 0 , Param:  ,/produto, Client 10.1.16.205, [07/dezembro/2022 14:56:13.000], PostmanRuntime/7.29.2, "GET /produto " 200 
+Time 0 , Param:  ,/produto, Client 10.1.16.205, [07/dezembro/2022 14:57:50.979], PostmanRuntime/7.29.2, "GET /produto " 200 
+Time 0 , Param:  ,/produto, Client 10.1.16.205, [07/dezembro/2022 14:57:51.836], PostmanRuntime/7.29.2, "GET /produto " 200 
+Time 0 , Param:  ,/produto, Client 10.1.16.205, [07/dezembro/2022 14:57:52.399], PostmanRuntime/7.29.2, "GET /produto " 200 
+Time 84 , Param:  ,/produto, Client 10.1.16.205, [07/dezembro/2022 14:57:52.975], PostmanRuntime/7.29.2, "GET /produto " 429 
+Time 25 , Param:  ,/produto, Client 10.1.16.205, [07/dezembro/2022 14:57:53.633], PostmanRuntime/7.29.2, "GET /produto " 429 
+Time 24 , Param:  ,/produto, Client 10.1.16.205, [07/dezembro/2022 14:57:54.183], PostmanRuntime/7.29.2, "GET /produto " 429 
+Time 31 , Param:  ,/produto, Client 10.1.16.205, [07/dezembro/2022 14:57:54.694], PostmanRuntime/7.29.2, "GET /produto " 429 
+Time 29 , Param:  ,/produto, Client 10.1.16.205, [07/dezembro/2022 14:57:55.275], PostmanRuntime/7.29.2, "GET /produto " 429 
+Time 25 , Param:  ,/produto, Client 10.1.16.205, [07/dezembro/2022 14:57:55.851], PostmanRuntime/7.29.2, "GET /produto " 429 
+Time 25 , Param:  ,/produto, Client 10.1.16.205, [07/dezembro/2022 14:57:56.378], PostmanRuntime/7.29.2, "GET /produto " 429 
+Time 28 , Param:  ,/produto, Client 10.1.16.205, [07/dezembro/2022 14:57:56.941], PostmanRuntime/7.29.2, "GET /produto " 429 
+Time 25 , Param:  ,/produto, Client 10.1.16.205, [07/dezembro/2022 14:57:57.472], PostmanRuntime/7.29.2, "GET /produto " 429 
+Time 36 , Param:  ,/produto, Client 10.1.16.205, [07/dezembro/2022 14:57:58.076], PostmanRuntime/7.29.2, "GET /produto " 429 
+Time 25 , Param:  ,/produto, Client 10.1.16.205, [07/dezembro/2022 14:57:58.687], PostmanRuntime/7.29.2, "GET /produto " 429 
+Time 31 , Param:  ,/produto, Client 10.1.16.205, [07/dezembro/2022 14:57:59.262], PostmanRuntime/7.29.2, "GET /produto " 429 
+Time 28 , Param:  ,/produto, Client 10.1.16.205, [07/dezembro/2022 14:57:59.876], PostmanRuntime/7.29.2, "GET /produto " 429 
+Time 50 , Param:  ,/produto, Client 10.1.16.205, [07/dezembro/2022 14:58:00.954], PostmanRuntime/7.29.2, "GET /produto " 429 
+Time 27 , Param:  ,/produto, Client 10.1.16.205, [07/dezembro/2022 14:58:01.582], PostmanRuntime/7.29.2, "GET /produto " 429 
+Time 26 , Param:  ,/produto, Client 10.1.16.205, [07/dezembro/2022 14:58:02.100], PostmanRuntime/7.29.2, "GET /produto " 429 
+Time 26 , Param:  ,/produto, Client 10.1.16.205, [07/dezembro/2022 14:58:02.626], PostmanRuntime/7.29.2, "GET /produto " 429 
+Time 24 , Param:  ,/produto, Client 10.1.16.205, [07/dezembro/2022 14:58:03.184], PostmanRuntime/7.29.2, "GET /produto " 429 
+Time 25 , Param:  ,/produto, Client 10.1.16.205, [07/dezembro/2022 14:58:03.802], PostmanRuntime/7.29.2, "GET /produto " 429 
+Time 28 , Param:  ,/produto, Client 10.1.16.205, [07/dezembro/2022 14:58:04.382], PostmanRuntime/7.29.2, "GET /produto " 429 
+Time 24 , Param:  ,/produto, Client 10.1.16.205, [07/dezembro/2022 14:58:04.996], PostmanRuntime/7.29.2, "GET /produto " 429 
+Time 24 , Param:  ,/produto, Client 10.1.16.205, [07/dezembro/2022 14:58:05.557], PostmanRuntime/7.29.2, "GET /produto " 429 
+Time 0 , Param:  ,/produto, Client 10.1.16.205, [07/dezembro/2022 14:58:06.303], PostmanRuntime/7.29.2, "GET /produto " 200 
+Time 0 , Param:  ,/produto, Client 10.1.16.205, [07/dezembro/2022 14:58:07.568], PostmanRuntime/7.29.2, "GET /produto " 200 
+Time 336 , Param:  ,/login, Client 10.1.16.205, [07/dezembro/2022 15:01:14.421], PostmanRuntime/7.29.2, "POST /login " 200 
+Time 0 , Param:  ,/produto, Client 10.1.16.205, [07/dezembro/2022 15:01:16.591], PostmanRuntime/7.29.2, "GET /produto " 200 
+Time 0 , Param:  ,/swagger/doc/html, Client 0:0:0:0:0:0:0:1, [07/dezembro/2022 15:01:34.853], Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36, "GET /swagger/doc/html " 200 
+Time 1 , Param:  ,/swagger/doc/json, Client 0:0:0:0:0:0:0:1, [07/dezembro/2022 15:01:35.024], Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36, "GET /swagger/doc/json " 200 
+Time 0 , Param:  ,/swagger/doc/html, Client 0:0:0:0:0:0:0:1, [07/dezembro/2022 15:03:03.541], Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36, "GET /swagger/doc/html " 200 
+Time 1 , Param:  ,/swagger/doc/json, Client 0:0:0:0:0:0:0:1, [07/dezembro/2022 15:03:03.722], Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36, "GET /swagger/doc/json " 200 
+Time 0 , Param:  ,/Login, Client 0:0:0:0:0:0:0:1, [07/dezembro/2022 15:03:12.561], Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36, "POST /Login " 404 
+Time 337 , Param:  ,/login, Client 10.1.16.205, [07/dezembro/2022 15:03:30.491], PostmanRuntime/7.29.2, "POST /login " 200 
+Time 1 , Param:  ,/Login, Client 0:0:0:0:0:0:0:1, [07/dezembro/2022 15:04:24.083], Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36, "POST /Login " 404 
+Time 0 , Param:  ,/Login, Client 0:0:0:0:0:0:0:1, [07/dezembro/2022 15:04:33.266], Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36, "POST /Login " 404 
+Time 0 , Param:  ,/swagger/doc/html, Client 0:0:0:0:0:0:0:1, [07/dezembro/2022 15:04:47.669], Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36, "GET /swagger/doc/html " 200 
+Time 1 , Param:  ,/swagger/doc/json, Client 127.0.0.1, [07/dezembro/2022 15:04:47.757], Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36, "GET /swagger/doc/json " 200 
+Time 50 , Param:  ,/login, Client 127.0.0.1, [07/dezembro/2022 15:04:55.646], Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36, "POST /login " 200 
+Time 0 , Param:  ,/produto, Client 0:0:0:0:0:0:0:1, [07/dezembro/2022 15:05:24.598], Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36, "GET /produto " 401 
+Time 76 , Param:  ,/produto, Client 0:0:0:0:0:0:0:1, [07/dezembro/2022 15:07:35.634], Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36, "GET /produto " 401 
+Time 1 , Param:  ,/swagger/doc/html, Client 0:0:0:0:0:0:0:1, [07/dezembro/2022 15:07:39.750], Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36, "GET /swagger/doc/html " 200 
+Time 0 , Param:  ,/swagger/doc/json, Client 0:0:0:0:0:0:0:1, [07/dezembro/2022 15:07:39.813], Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36, "GET /swagger/doc/json " 200 
+Time 22 , Param:  ,/produto, Client 0:0:0:0:0:0:0:1, [07/dezembro/2022 15:07:51.576], Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36, "GET /produto " 401 
+Time 0 , Param:  ,/swagger/doc/html, Client 0:0:0:0:0:0:0:1, [07/dezembro/2022 15:08:45.021], Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36, "GET /swagger/doc/html " 200 
+Time 1 , Param:  ,/swagger/doc/json, Client 0:0:0:0:0:0:0:1, [07/dezembro/2022 15:08:45.133], Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36, "GET /swagger/doc/json " 200 
+Time 77 , Param:  ,/produto, Client 0:0:0:0:0:0:0:1, [07/dezembro/2022 15:08:48.112], Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36, "GET /produto " 401 
+Time 305 , Param:  ,/login, Client 0:0:0:0:0:0:0:1, [07/dezembro/2022 15:10:17.732], Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36, "POST /login " 200 
+Time 23 , Param:  ,/produto, Client 0:0:0:0:0:0:0:1, [07/dezembro/2022 15:10:28.083], Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36, "GET /produto " 401 
+Time 1 , Param:  ,/swagger/doc/html, Client 0:0:0:0:0:0:0:1, [07/dezembro/2022 15:10:36.300], Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36, "GET /swagger/doc/html " 200 
+Time 2 , Param:  ,/swagger/doc/json, Client 0:0:0:0:0:0:0:1, [07/dezembro/2022 15:10:36.402], Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36, "GET /swagger/doc/json " 200 
+Time 146 , Param:  ,/login, Client 0:0:0:0:0:0:0:1, [07/dezembro/2022 15:10:55.187], Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36, "POST /login " 200 
+Time 0 , Param:  ,/produto, Client 0:0:0:0:0:0:0:1, [07/dezembro/2022 15:12:17.371], Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36, "GET /produto " 200 
+Time 1 , Param:  ,/produto, Client 10.1.16.205, [07/dezembro/2022 15:18:13.276], PostmanRuntime/7.29.2, "GET /produto " 200 
+Time 0 , Param:  ,/produto, Client 10.1.16.205, [07/dezembro/2022 15:18:14.848], PostmanRuntime/7.29.2, "GET /produto " 200 
+Time 47 , Param:  ,/login, Client 10.1.16.205, [07/dezembro/2022 15:18:16.263], PostmanRuntime/7.29.2, "POST /login " 200 
+Time 0 , Param:  ,/login, Client 0:0:0:0:0:0:0:1, [07/dezembro/2022 22:00:44.929], PostmanRuntime/7.29.2, "POST /login " 400 
+Time 0 , Param:  ,/login, Client 0:0:0:0:0:0:0:1, [07/dezembro/2022 22:00:56.462], PostmanRuntime/7.29.2, "POST /login " 400 
+Time 0 , Param:  ,/login, Client 0:0:0:0:0:0:0:1, [07/dezembro/2022 22:01:45.225], PostmanRuntime/7.29.2, "POST /login " 400 
+Time 0 , Param:  ,/login, Client 0:0:0:0:0:0:0:1, [07/dezembro/2022 22:05:22.662], PostmanRuntime/7.29.2, "POST /login " 200 
+Time 0 , Param:  ,/login, Client 0:0:0:0:0:0:0:1, [07/dezembro/2022 22:05:24.221], PostmanRuntime/7.29.2, "POST /login " 200 
+Time 0 , Param:  ,/produto, Client 0:0:0:0:0:0:0:1, [07/dezembro/2022 22:05:33.639], PostmanRuntime/7.29.2, "GET /produto " 401 
+Time 0 , Param:  ,/produto, Client 0:0:0:0:0:0:0:1, [07/dezembro/2022 22:05:41.284], PostmanRuntime/7.29.2, "GET /produto " 200 
+Time 0 , Param:  ,/produto, Client 0:0:0:0:0:0:0:1, [07/dezembro/2022 22:05:44.869], PostmanRuntime/7.29.2, "GET /produto " 200 
+Time 0 , Param:  ,/login, Client 0:0:0:0:0:0:0:1, [07/dezembro/2022 22:05:48.108], PostmanRuntime/7.29.2, "POST /login " 200 
+Time 0 , Param:  ,/login, Client 0:0:0:0:0:0:0:1, [07/dezembro/2022 22:05:49.036], PostmanRuntime/7.29.2, "POST /login " 429 
+Time 0 , Param:  ,/login, Client 0:0:0:0:0:0:0:1, [07/dezembro/2022 22:05:49.990], PostmanRuntime/7.29.2, "POST /login " 429 
